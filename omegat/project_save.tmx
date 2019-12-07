@@ -30,10 +30,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finally, it anchors to Art of over time.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="loic" changedate="20191207T211736Z" creationid="loic" creationdate="20191207T211736Z">
+        <seg>Finallement, cela ancre l'art dans le temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>new knowledge and skills.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="loic" changedate="20191207T211423Z" creationid="loic" creationdate="20191207T211423Z">
         <seg>nouvelles connaissances et compétences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>of collaboration.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="loic" changedate="20191207T211745Z" creationid="loic" creationdate="20191207T211745Z">
+        <seg>de collaboration.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
