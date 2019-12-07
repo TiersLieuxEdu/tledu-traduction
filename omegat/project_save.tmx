@@ -38,10 +38,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>BEYOND LEARNING IN SILOS</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="loic" changedate="20191207T215447Z" creationid="loic" creationdate="20191207T215447Z">
+        <seg>Au delà de l'apprentissage en silos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Besides, it  builds on the concept of Communities  As a model, it provides a possible  architecture for organizing a  plethora of learning activities  within a unique framework, based  on dynamics of decentralization  and disintermediation.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="loic" changedate="20191207T211710Z" creationid="loic" creationdate="20191207T211710Z">
         <seg>De plus, c'est basé sur le concept de communautés  En tant que modèle, cela apporte une architecture possible à tout un tas d'activités d'apprentissage au sein d'un unique framework, basé sur une dynamique de décentralisation et de désintermédiation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>EXECUTIVE SUMMARY</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="loic" changedate="20191207T215434Z" creationid="loic" creationdate="20191207T215434Z">
+        <seg>Resumé</seg>
       </tuv>
     </tu>
     <tu>
