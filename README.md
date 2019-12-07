@@ -9,7 +9,7 @@ Pour nous rejoindre, il vous faut :
 * créer un compte [GitHub](http://www.github.com),
 * rejoindre le projet [TLEdu-traduction](https://github.com/TiersLieuxEdu/tledu-traduction),
 * [installer Git](https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Installation-de-Git),
-* ouvrir le [notre projet](omega.project?raw=true) avec OmegaT.
+* ouvrir [notre projet](omegat.project?raw=true) avec OmegaT.
 
 Le reste devrait se faire automatiquement.
 Il ne vous reste plus qu'à traduire !
