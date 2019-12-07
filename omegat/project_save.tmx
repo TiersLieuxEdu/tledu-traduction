@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>12 - 17 #Digital badges pp.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="loic" changedate="20191207T205900Z" creationid="loic" creationdate="20191207T205900Z">
+        <seg>12 - 17 #Badges numériques pp.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
