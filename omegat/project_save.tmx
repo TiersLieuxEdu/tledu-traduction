@@ -20,6 +20,22 @@
         <seg>12 - 17 L'APPRENTISSAGE EN SILOS    pp.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Besides, it  builds on the concept of Communities  As a model, it provides a possible  architecture for organizing a  plethora of learning activities  within a unique framework, based  on dynamics of decentralization  and disintermediation.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="loic" changedate="20191207T211710Z" creationid="loic" creationdate="20191207T211710Z">
+        <seg>De plus, c'est basé sur le concept de communautés  En tant que modèle, cela apporte une architecture possible à tout un tas d'activités d'apprentissage au sein d'un unique framework, basé sur une dynamique de décentralisation et de désintermédiation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>new knowledge and skills.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="loic" changedate="20191207T211423Z" creationid="loic" creationdate="20191207T211423Z">
+        <seg>nouvelles connaissances et compétences.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
