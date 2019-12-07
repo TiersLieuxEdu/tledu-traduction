@@ -12,6 +12,14 @@
         <seg>12 - 17 #Badges numériques pp.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>12 - 17 LEARNING  IN SILOS    pp.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="loic" changedate="20191207T205933Z" creationid="loic" creationdate="20191207T205933Z">
+        <seg>12 - 17 L'APPRENTISSAGE EN SILOS    pp.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
