@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Unemployment Programme&lt;/f0&gt;&lt;f1&gt;1&lt;/f1&gt;&lt;f2&gt;, that&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="loic" changedate="20191208T120204Z" creationid="loic" creationdate="20191208T120204Z">
+        <seg>&lt;f0&gt;Unemployment Programme&lt;/f0&gt;&lt;f1&gt;1&lt;/f1&gt;&lt;f2&gt;, qui&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;been our most precious &lt;/f0&gt;&lt;f1&gt;critical friend&lt;/f1&gt;&lt;f2&gt;,&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="loic" changedate="20191208T111454Z" creationid="loic" creationdate="20191208T111454Z">
@@ -206,10 +214,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>communities of interest and practice</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="loic" changedate="20191208T120351Z" creationid="loic" creationdate="20191208T120351Z">
+        <seg>de communautés d'intérêts et de pratique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>experience, and make our starting</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="loic" changedate="20191208T120101Z" creationid="loic" creationdate="20191208T120028Z">
         <seg>leur expérience, et faisant évoluer nos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for sharing ideas, experiences and</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="loic" changedate="20191208T120241Z" creationid="loic" creationdate="20191208T120241Z">
+        <seg>de partage d'idées, d'expériences, et</seg>
       </tuv>
     </tu>
     <tu>
@@ -234,6 +258,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="loic" changedate="20191208T111624Z" creationid="loic" creationdate="20191208T111624Z">
         <seg>suite à pris forme par l'action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>new forms of work, and for creating</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="loic" changedate="20191208T120335Z" creationid="loic" creationdate="20191208T120335Z">
+        <seg>les nouvelles formes du travail, ainsi que la création</seg>
       </tuv>
     </tu>
     <tu>
@@ -266,6 +298,22 @@
       </tuv>
       <tuv lang="FR-FR" changeid="loic" changedate="20191208T115848Z" creationid="loic" creationdate="20191208T115848Z">
         <seg>de la communauté ont partagé ouvertement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>on these topics.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="loic" changedate="20191208T120357Z" creationid="loic" creationdate="20191208T120357Z">
+        <seg>sur ces sujets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>provided an international space</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="loic" changedate="20191208T120225Z" creationid="loic" creationdate="20191208T120225Z">
+        <seg>fournit un espace internationnal</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +378,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="loic" changedate="20191208T120001Z" creationid="loic" creationdate="20191208T120001Z">
         <seg>la chance d'apprendre directement de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>visions about skills development and</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="loic" changedate="20191208T120314Z" creationid="loic" creationdate="20191208T120314Z">
+        <seg>de visions sur le développement de compétences, et</seg>
       </tuv>
     </tu>
     <tu>
