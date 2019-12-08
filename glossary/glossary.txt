@@ -1,1 +1,2 @@
 core team	équipe-noyau
+RL	Apprentissage Radical	Radical Learning.Doit-on garder l'acronyme ?
