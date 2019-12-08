@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Besides, many members</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="loic" changedate="20191208T115831Z" creationid="loic" creationdate="20191208T115831Z">
+        <seg>Par ailleurs, plusieurs membres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>EXECUTIVE SUMMARY</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="loic" changedate="20191207T215434Z" creationid="loic" creationdate="20191207T215434Z">
