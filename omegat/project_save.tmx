@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Furthermore, we acknowledge</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="loic" changedate="20191208T120124Z" creationid="loic" creationdate="20191208T120124Z">
+        <seg>De plus, nous reconnaissons</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Margherita Violante Masini - Hosts</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="loic" changedate="20191208T111700Z" creationid="loic" creationdate="20191208T111651Z">
@@ -182,10 +190,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>assumptions evolve over time.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="loic" changedate="20191208T120056Z" creationid="loic" creationdate="20191208T120056Z">
+        <seg>hypothèses initiales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>by Laura Martelloni, Glenda Galeotti,</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="loic" changedate="20191207T221229Z" creationid="loic" creationdate="20191207T221229Z">
         <seg>par Laura Martelloni, Glenda Galeotti,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>experience, and make our starting</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="loic" changedate="20191208T120101Z" creationid="loic" creationdate="20191208T120028Z">
+        <seg>leur expérience, et faisant évoluer nos</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>the contribution of the Beyond</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="loic" changedate="20191208T120157Z" creationid="loic" creationdate="20191208T120157Z">
+        <seg>les contributions du programme Beyond</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>the core team leading RL from the initial stage of conceptualization and ideation.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="loic" changedate="20191208T111326Z" creationid="loic" creationdate="20191208T111326Z">
@@ -290,6 +322,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="loic" changedate="20191208T111758Z" creationid="loic" creationdate="20191208T111758Z">
         <seg>comprendre comment nos membres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>us the chance to learn from their direct</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="loic" changedate="20191208T120001Z" creationid="loic" creationdate="20191208T120001Z">
+        <seg>la chance d'apprendre directement de</seg>
       </tuv>
     </tu>
     <tu>
