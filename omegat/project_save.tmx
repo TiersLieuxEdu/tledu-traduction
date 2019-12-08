@@ -156,6 +156,14 @@
         <seg>de collaboration.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the core team leading RL from the initial stage of conceptualization and ideation.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="loic" changedate="20191208T111326Z" creationid="loic" creationdate="20191208T111326Z">
+        <seg>l'équipe noyau dirigeant l'Apprentissage Radical du stade initial de conceptualisation et d'idéation.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
